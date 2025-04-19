@@ -114,8 +114,6 @@ If you would like to contribute, read [CONTRIBUTING.md](./CONTRIBUTING.md) (or j
 
 ## Resources
 
-- [SwitchCraft Rules and Documentation](https://docs.sc3.io/) - Has general information about the server and some of its mods
-- [Plethora Documentation](https://plethora.madefor.cc/) - Can be outdated, see [here](https://docs.sc3.io/whats-new/plethora.html) for changes
-- [SwitchCraft Website](https://sc3.io) - Has general info and link to discord
-- [SC3 Ingame Chat Ping Graphs](https://forged.phd/scpings/) - View global and per-player chat ping graphs
-- [SC3 introduction for new players](https://gist.github.com/umnikos/590a2cd6f15078c97d50c350977c022e) - A detailed guide for new players
+- [ReconnectedCC Rules and Documentation](https://docs.reconnected.cc/) - Has general information about the server and some of its mods
+- [Plethora Documentation](https://docs.reconnected.cc/replethora/) - Documentation for the in-house fork, Re:Plethora
+- [ReconnectedCC Website](https://reconnected.cc/) - Has general info and link to discord
