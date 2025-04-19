@@ -77,7 +77,7 @@ If you would like to contribute, read [CONTRIBUTING.md](./CONTRIBUTING.md) (or j
 
 ### Other
 
-- [chester](https://p.sc3.io/qEDtRRMeny) - Enderstorage frequency picker
+- [chester](https://p.sc3.io/tfpRZTpeXH) - Enderstorage frequency picker, updated for rCC's EnderStorage list
 - [CarrotPay](https://github.com/scmcgowen/carrotpay) - A simple chatbox based kristpay replacement to have more control over your kst
 - [`^pchat` Server](https://p.sc3.io/AcyUGmkyM7) - Server for pchat private messaging
 - [FindShop reciever](https://github.com/slimit75/fs-reciever) - The ComputerCraft app which recieves ShopSync data, and passes it to \findshop
