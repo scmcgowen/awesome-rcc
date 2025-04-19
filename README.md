@@ -70,7 +70,6 @@ If you would like to contribute, read [CONTRIBUTING.md](./CONTRIBUTING.md) (or j
   - [Tenebra Staking Node (Allymonies)](https://github.com/Allymonies/tenebrastakingnode) - Tenebra staking node written in JavaScript
   - [Tenebra Stake (Erb3)](https://github.com/Erb3/TenebraStake) - Tenebra staking node written in Rust
   - [Tenebra Stake Node (PatriikPlays)](https://github.com/PatriikPlays/tenebrastakenode) - Tenebra staking node written in C++
-  - [Tenebra Validator (Anavrins)](https://github.com/xAnavrins/TenebraValidator) - Tenebra staking node written in JavaScript
   - [Tenebra.lua (AlexDevs)](https://gist.github.com/Ale32bit/2978fd3962506a8a943fbcf115084b6b) - Tenebra staking node for CC: Tweaked written in Lua
 - [QuartzEncoder](https://cc.alexdevs.me/) - DFPWM and MDFPWM online converter from media services such as YouTube
 - [FindShop chatbox](https://github.com/Pixium/findshop) - The chatbox which powers \findshop, which allows to search through ShopSync-capable shops
@@ -82,7 +81,6 @@ If you would like to contribute, read [CONTRIBUTING.md](./CONTRIBUTING.md) (or j
 - [`^pchat` Server](https://p.sc3.io/AcyUGmkyM7) - Server for pchat private messaging
 - [FindShop reciever](https://github.com/slimit75/fs-reciever) - The ComputerCraft app which recieves ShopSync data, and passes it to \findshop
 - [Musicify](https://github.com/knijn/musicify) - A music player for ComputerCraft
-- [ShopIndex](https://shops.alexdevs.me) - Shops aggregator to browse the catalogue. Uses ShopSync
 - [Quartz](https://github.com/Ale32bit/Quartz) - DFPWM and MDFPWM audio player for ComputerCraft
 - [CCTunes](https://github.com/Hellscaped/cctunes) - Music radio station software & websocket audio player, with built-in cover art and metadata providers
 - [bsp](https://github.com/aspen-reeves/bsp) - Music player that streams from a subsonic compatible server
@@ -96,7 +94,6 @@ If you would like to contribute, read [CONTRIBUTING.md](./CONTRIBUTING.md) (or j
 - [Dynmap](https://p.sc3.io/hxHMUvEx8y) - Functions to wrap Dynmap API
 - [cbb](https://github.com/migeyel/cbb) - Simple Chatbox parser
 - [ccryptolib](https://github.com/migeyel/ccryptolib) - Collection of cryptographic primitives written in Lua
-- [ECDHA key exchange implementation](https://www.computercraft.info/forums2/index.php?/topic/29803-elliptic-curve-cryptography/) - This allows for entierly secure, quick, public/private key cryptography in CC.
 - [speakerlib](https://github.com/throughthefog/speakerlib) - CC speaker library with support for stereo audio
 - [hopper.lua](https://github.com/umnikos/hopper.lua) - The ffmpeg of Minecraft item transportation: move items from A to B without any hassle
 
@@ -114,8 +111,6 @@ If you would like to contribute, read [CONTRIBUTING.md](./CONTRIBUTING.md) (or j
 
 ## Resources
 
-- [SwitchCraft Rules and Documentation](https://docs.sc3.io/) - Has general information about the server and some of its mods
-- [Plethora Documentation](https://plethora.madefor.cc/) - Can be outdated, see [here](https://docs.sc3.io/whats-new/plethora.html) for changes
-- [SwitchCraft Website](https://sc3.io) - Has general info and link to discord
-- [SC3 Ingame Chat Ping Graphs](https://forged.phd/scpings/) - View global and per-player chat ping graphs
-- [SC3 introduction for new players](https://gist.github.com/umnikos/590a2cd6f15078c97d50c350977c022e) - A detailed guide for new players
+- [ReconnectedCC Rules and Documentation](https://docs.reconnected.cc/) - Has general information about the server and some of its mods
+- [Plethora Documentation](https://docs.reconnected.cc/replethora/) - Documentation for the in-house fork, Re:Plethora
+- [ReconnectedCC Website](https://reconnected.cc/) - Has general info and link to discord
