@@ -1,14 +1,12 @@
-# Awesome SwitchCraft
+# Awesome RCC
 
-> Awesome programs and libraries for the [SwitchCraft](https://sc3.io/) Minecraft server
+> Awesome programs and libraries for the [ReconnectedCC](https://reconnected.cc) Minecraft server
 
 > This list is licensed under the FAFO-1-Clause, [a permissive public license](https://github.com/aspen-reeves/FAFO-PL)
 
-**SwitchCraft** is a Minecraft server with [CC: Tweaked](https://github.com/cc-tweaked/CC-Tweaked), [Plethora](https://github.com/SwitchCraftCC/Plethora-Fabric), [Krist](https://github.com/tmpim/Krist), among [others](https://github.com/SwitchCraftCC)
+**ReconnectedCC** is a Minecraft server with [CC: Tweaked](https://github.com/cc-tweaked/CC-Tweaked), [Plethora](https://github.com/reconnectedcc/re-plethora), among [others](https://github.com/reconnectedcc)
 
-**SwitchCraft is shutting down September 27, 2024. Thank you all for the contributions to this list, and thank you SwitchCraft maintainers for giving us this amazing server! This list shall stay up as a public archive**
-
-This list is meant to cater directly to SwitchCraft players; for a more generic ComputerCraft list, see [awesome-computercraft](https://github.com/tomodachi94/awesome-computercraft)
+This list is meant to cater directly to RCC players; for a more generic ComputerCraft list, see [awesome-computercraft](https://github.com/tomodachi94/awesome-computercraft)
 
 If you would like to contribute, read [CONTRIBUTING.md](./CONTRIBUTING.md) (or just create an issue with the program and a link to its source or wiki)
 
@@ -79,7 +77,7 @@ If you would like to contribute, read [CONTRIBUTING.md](./CONTRIBUTING.md) (or j
 
 ### Other
 
-- [chester](https://p.sc3.io/qEDtRRMeny) - Enderstorage frequency picker
+- [chester](https://p.sc3.io/tfpRZTpeXH) - Enderstorage frequency picker, updated for rCC's EnderStorage list
 - [CarrotPay](https://github.com/scmcgowen/carrotpay) - A simple chatbox based kristpay replacement to have more control over your kst
 - [`^pchat` Server](https://p.sc3.io/AcyUGmkyM7) - Server for pchat private messaging
 - [FindShop reciever](https://github.com/slimit75/fs-reciever) - The ComputerCraft app which recieves ShopSync data, and passes it to \findshop
