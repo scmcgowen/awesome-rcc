@@ -106,6 +106,7 @@ If you would like to contribute, read [CONTRIBUTING.md](./CONTRIBUTING.md) (or j
 - [Bigfont](https://pastebin.com/3LfWxRWh) - Functions to write in bigger fonts
 - [Cloud Catcher](https://cloud-catcher.squiddev.cc/) - Web terminal for ComputerCraft
 - [MBS](https://github.com/SquidDev-CC/mbs) - A Mildly Better Shell for ComputerCraft
+- [hopper.lua](https://github.com/umnikos/hopper.lua) - Move items from A to B without any hassle
 
 ## Other Projects
 
